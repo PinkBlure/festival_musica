@@ -1,0 +1,23 @@
+{
+  "name": "festival_musica",
+  "version": "1.0.0",
+  "description": "Aprendiendo sass y npm",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:dist/css",
+    "hola": "gulp hola"
+  },
+  "keywords": [
+    "sass",
+    "npm",
+    "gulp"
+  ],
+  "author": "aileen udemy",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.79.2"
+  }
+}
