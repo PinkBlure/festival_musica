@@ -372,3 +372,12 @@ body > section {
 .header {
   background-color: #4CB8B3;
 }
+.header h1 {
+  color: #FFFFFF;
+}
+.header .contenido-header {
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

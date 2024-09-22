@@ -13,5 +13,5 @@ export const css = done => {
 }
 
 export const dev = () => {
-    watch('src/scss/**.scss', css)
+    watch('src/scss/**/*.scss', css)
 }

@@ -2,4 +2,16 @@
 
 .header {
     background-color: v.$verde;
+
+    h1 {
+        color: v.$blanco;
+    }
+
+    .contenido-header {
+        padding: 2rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
 }
+
